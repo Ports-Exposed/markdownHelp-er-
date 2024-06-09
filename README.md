@@ -1,8 +1,14 @@
 # markdownHelp[er]
 Convert argpase &amp; equivalent help documents to markdown.
 
-Usage: `python3 markdownHelper.py <script_name>`
+Usage: `python3 markdownHelper.py <script_name>`  
 Outputs to same directory as markdownHelper.py
+
+More features to come, such as
+
+ - Insertion into existing markdown files using hidden tags
+ - Output specification
+ - Additional backtick/code formatting
 
 **Current known issues:**
 
