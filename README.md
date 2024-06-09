@@ -82,7 +82,8 @@ options:
   -V, --verbose         Enable verbose output
 ```
 
-Into this:
+ - Into this:
+
 <!--HELP GEN START-->
 ## Help Documentation
 | Operation | Usage | Positional Arguments | Options |
