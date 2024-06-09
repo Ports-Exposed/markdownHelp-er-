@@ -13,6 +13,7 @@ More features to come, such as
 **Current known issues:**
 
  - Single dash flags aren't formatted with backticks if they either are prefixed with an open bracket or suffixed with a comma.
+ - Brackets duplicating?
 
 
 ## Example Output:
